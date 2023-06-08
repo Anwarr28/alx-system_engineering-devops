@@ -9,4 +9,4 @@ mkdir /tmp/my_first_directory: create a script that mk dir
 mv: move betty file to my_first_directory
 rm: remove betty file 
 rmdir: remove /tmp/my_first_directory dir 
-cd ..: changes the working directory to the previous one
+cd -: changes the working directory to the previous one
