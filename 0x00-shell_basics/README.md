@@ -8,3 +8,4 @@ ls -lav:list content numericlly,long format and hidden
 mkdir /tmp/my_first_directory: create a script that mk dir
 mv: move betty file to my_first_directory
 rm: remove betty file 
+rmdir: remove /tmp/my_first_directory dir 
