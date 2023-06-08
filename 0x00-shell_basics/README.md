@@ -10,4 +10,4 @@ mv: move betty file to my_first_directory
 rm: remove betty file 
 rmdir: remove /tmp/my_first_directory dir 
 cd -: changes the working directory to the previous one
-ls -la . /moterdir: list contert of the current dir and its mother dir
+ls -la . .. /boot: list contert of the current dir ,its mother and /boot dirs
