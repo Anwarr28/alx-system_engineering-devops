@@ -17,3 +17,5 @@ cp -un *...:copy only new and doesn't exist files to destnaion which also end wi
 mv [[:upper:]]* : move all files begin with upper case letter to dir /tmp/u
 rm *~: remove all file that ends with ~
 mkdir -p: create dirs in path name which doesn't exist 
+ls --format: to list in certain way 
+
