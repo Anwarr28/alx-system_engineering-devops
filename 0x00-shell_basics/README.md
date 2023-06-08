@@ -5,3 +5,4 @@ cd /root: change the working dir to the user's home dir
 ls -l: Display current directory contents in a long format
 ls -la: Display current directory contents, including hidden files
 ls -lav:list content numericlly,long format and hidden
+mkdir /tmp/my_first_directory: create a script that mk dir
