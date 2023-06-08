@@ -11,4 +11,4 @@ rm: remove betty file
 rmdir: remove /tmp/my_first_directory dir 
 cd -: changes the working directory to the previous one
 ls -la . .. /boot: list contert of the current dir ,its mother and /boot dirs
-type: print the type of iamafile file 
+file: print the type of iamafile file 
