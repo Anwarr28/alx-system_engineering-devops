@@ -13,3 +13,4 @@ cd -: changes the working directory to the previous one
 ls -la . .. /boot: list contert of the current dir ,its mother and /boot dirs
 file: print the type of iamafile file 
 ln: creat symbolic link to /bin/ls named __ls__
+cp -un *...:copy only new and doesn't exist files to destnaion which also end with ...
