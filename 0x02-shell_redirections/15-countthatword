@@ -1,2 +1,2 @@
 #!/bin/bash
-grep  "bin" /passwd/etc | wc -l
+grep  bin /passwd/etc | wc -l
