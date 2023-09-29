@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R --root:root vincent:staff .
+chown -R --form=julien:julien vincent:staff .
